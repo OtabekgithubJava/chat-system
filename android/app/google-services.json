@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "654894705102",
+    "project_id": "whatsup-5182e",
+    "storage_bucket": "whatsup-5182e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654894705102:android:5a6f395a5f63036721239f",
+        "android_client_info": {
+          "package_name": "com.example.whatsup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2iNN89RZra1bd9zFqTsU2ZWI6D_BVbNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
